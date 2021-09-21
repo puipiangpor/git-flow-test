@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 
+=======
+add text into text2.txt
+add more text
+>>>>>>> 5f4a236d239822dafc7439c33a9c45ee4ab45677
